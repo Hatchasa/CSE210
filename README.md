@@ -10,3 +10,5 @@ This repository contains the starter code for many different projects. They are 
 * `final` - Starter projects for final project.
 
 Here is the first line of code for the class!
+
+Here is an update that is correct!
